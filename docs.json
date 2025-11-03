@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "documentation | getsnippet.ai",
   "colors": {
-    "primary": "#3d006a",
+    "primary": "#000000",
     "light": "#07C983",
     "dark": "#15803D"
   },
